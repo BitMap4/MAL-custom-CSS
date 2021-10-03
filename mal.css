@@ -100,7 +100,7 @@ width: 100%; border-spacing: 0; text-align: center;}
 
 #status-menu .status-menu:before {
 content: ''; display: inline-block; width: 90px; height: 90px; border-radius: 50%;
-background: center/cover url('https://cdn.myanimelist.net/images/userimages/12057103.jpg?t=1630062600');
+background: center/cover url('https://cdn.myanimelist.net/images/userimages/12057103.jpg');
 position: absolute; margin-top: -20px;}
 
 #status-menu .status-button {
